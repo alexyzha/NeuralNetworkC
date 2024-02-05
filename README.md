@@ -37,4 +37,4 @@ All of the paths to files have been changed/omitted because I like keeping my de
 - Backpropagation implemented correctly.
 - ADAM used for backpropagation.
 - [Xavier initialization](https://365datascience.com/tutorials/machine-learning-tutorials/what-is-xavier-initialization/) used.
-
+- Multiple files.
